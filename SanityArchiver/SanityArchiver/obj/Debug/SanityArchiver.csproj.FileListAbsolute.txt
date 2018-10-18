@@ -1,0 +1,10 @@
+C:\Users\Prokaj Dagat Kristóf\Desktop\Net\SanityArchiver\SanityArchiver\bin\Debug\SanityArchiver.exe.config
+C:\Users\Prokaj Dagat Kristóf\Desktop\Net\SanityArchiver\SanityArchiver\bin\Debug\SanityArchiver.exe
+C:\Users\Prokaj Dagat Kristóf\Desktop\Net\SanityArchiver\SanityArchiver\bin\Debug\SanityArchiver.pdb
+C:\Users\Prokaj Dagat Kristóf\Desktop\Net\SanityArchiver\SanityArchiver\obj\Debug\SanityArchiver.csprojAssemblyReference.cache
+C:\Users\Prokaj Dagat Kristóf\Desktop\Net\SanityArchiver\SanityArchiver\obj\Debug\SanityArchiver.Form1.resources
+C:\Users\Prokaj Dagat Kristóf\Desktop\Net\SanityArchiver\SanityArchiver\obj\Debug\SanityArchiver.Properties.Resources.resources
+C:\Users\Prokaj Dagat Kristóf\Desktop\Net\SanityArchiver\SanityArchiver\obj\Debug\SanityArchiver.csproj.GenerateResource.cache
+C:\Users\Prokaj Dagat Kristóf\Desktop\Net\SanityArchiver\SanityArchiver\obj\Debug\SanityArchiver.csproj.CoreCompileInputs.cache
+C:\Users\Prokaj Dagat Kristóf\Desktop\Net\SanityArchiver\SanityArchiver\obj\Debug\SanityArchiver.exe
+C:\Users\Prokaj Dagat Kristóf\Desktop\Net\SanityArchiver\SanityArchiver\obj\Debug\SanityArchiver.pdb
